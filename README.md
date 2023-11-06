@@ -12,7 +12,7 @@ I am studying at ITStep, I enjoy creating .Net programs using Wpf for frontend a
 ![CSS](https://img.shields.io/badge/CSS3-00000F?style=for-the-badge&logo=css3&logoColor=475BCE)
 ![JS](https://img.shields.io/badge/JavaScript-00000F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-<!-- ![dasd](https://img.shields.io/badge/<Label>-<Message>-<color>) -->
+
 
 
 
@@ -25,12 +25,13 @@ I am studying at ITStep, I enjoy creating .Net programs using Wpf for frontend a
 # Header
 ![Header](https://github.com/HasiukI/HasiukI/blob/main/assets/R.jpeg)
 
-## about me
 
 ### Programming tools
+![Gmail](https://img.shields.io/badge/Gmail-ffffff?style=for-the-badge&logo=gmail&logoColor=black)
+![Github](https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=1f1f1f)
+# Me
 
-#### me
-
-
-
+## about me
+odkaoisjdioaspokdopaishudohijasodjoiasguoidjpoashduashipodjioasjdopaskdjiajsd
+asodkpoaskd
 
