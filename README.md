@@ -23,6 +23,7 @@ I am studying at ITStep, I enjoy creating .Net programs using Wpf for frontend a
 
 
 # Header
+![Header](https://github.com/HasiukI/HasiukI/blob/main/assets/R.jpeg)
 
 ## about me
 
